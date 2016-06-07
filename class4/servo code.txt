@@ -1,0 +1,10 @@
+servo code can be found in the built-in examples
+
+File > Examples> Servo >Knob
+https://www.arduino.cc/en/Tutorial/Knob
+and 
+File > Examples> Servo > Sweep
+https://www.arduino.cc/en/Tutorial/Sweep
+
+Additional information about the library can be found here : https://www.arduino.cc/en/Reference/Servo
+
