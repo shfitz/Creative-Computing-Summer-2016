@@ -44,7 +44,6 @@ function Sphere(tempSize) {
     return(this.yPos);
   }
   
-  
   this.setSize = function(tempSize){
     this.size = tempSize;
   }
